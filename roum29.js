@@ -8,7 +8,7 @@ class Roum29 extends ComicSource {
 
     // Venera 源的 url 必须指向“JS 源文件本身”，不能填写漫画网站首页。
     // 本版本按你的 VeneraX 增强版仓库预留地址配置。
-    url = "https://cdn.jsdelivr.net/gh/Souitou-iop/venerax-configs-enhanced@main/roum29.js"
+    url = "https://cdn.jsdelivr.net/gh/xuhao910216/roum29.js@main/roum29.js"
 
     baseUrl = "https://roum29.xyz"
     pageSize = 24
